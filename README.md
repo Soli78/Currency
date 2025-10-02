@@ -26,9 +26,9 @@ Users can select source and target currencies and get the updated exchange rate.
 
 ## Screenshot (اسکرین‌شات)
 
-![App Screenshot](img/screenshot 1.png)
-![App Screenshot](img/screenshot 2.png)
-![App Screenshot](img/screenshot 3.png)
+![App Screenshot](img/screenshot-1.png)
+![App Screenshot](img/screenshot-2.png)
+![App Screenshot](img/screenshot-3.png)
 
 ---
 
