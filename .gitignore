@@ -1,0 +1,24 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual envs
+venv/
+.venv/
+ENV/
+
+# Output / build files
+output/
+build/
+dist/
+*.egg-info/
+*.exe
+*.dll
+
+# Logs
+*.log
+
+# System
+.DS_Store
+Thumbs.db
